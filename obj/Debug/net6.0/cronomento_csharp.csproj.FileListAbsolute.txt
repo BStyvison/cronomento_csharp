@@ -1,0 +1,15 @@
+C:\Users\Brayan\Documents\GitHub\cronomento_csharp\obj\Debug\net6.0\cronomento_csharp.csproj.AssemblyReference.cache
+C:\Users\Brayan\Documents\GitHub\cronomento_csharp\obj\Debug\net6.0\cronomento_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brayan\Documents\GitHub\cronomento_csharp\obj\Debug\net6.0\cronomento_csharp.AssemblyInfoInputs.cache
+C:\Users\Brayan\Documents\GitHub\cronomento_csharp\obj\Debug\net6.0\cronomento_csharp.AssemblyInfo.cs
+C:\Users\Brayan\Documents\GitHub\cronomento_csharp\obj\Debug\net6.0\cronomento_csharp.csproj.CoreCompileInputs.cache
+C:\Users\Brayan\Documents\GitHub\cronomento_csharp\bin\Debug\net6.0\cronomento_csharp.exe
+C:\Users\Brayan\Documents\GitHub\cronomento_csharp\bin\Debug\net6.0\cronomento_csharp.deps.json
+C:\Users\Brayan\Documents\GitHub\cronomento_csharp\bin\Debug\net6.0\cronomento_csharp.runtimeconfig.json
+C:\Users\Brayan\Documents\GitHub\cronomento_csharp\bin\Debug\net6.0\cronomento_csharp.dll
+C:\Users\Brayan\Documents\GitHub\cronomento_csharp\bin\Debug\net6.0\cronomento_csharp.pdb
+C:\Users\Brayan\Documents\GitHub\cronomento_csharp\obj\Debug\net6.0\cronomento_csharp.dll
+C:\Users\Brayan\Documents\GitHub\cronomento_csharp\obj\Debug\net6.0\refint\cronomento_csharp.dll
+C:\Users\Brayan\Documents\GitHub\cronomento_csharp\obj\Debug\net6.0\cronomento_csharp.pdb
+C:\Users\Brayan\Documents\GitHub\cronomento_csharp\obj\Debug\net6.0\cronomento_csharp.genruntimeconfig.cache
+C:\Users\Brayan\Documents\GitHub\cronomento_csharp\obj\Debug\net6.0\ref\cronomento_csharp.dll
